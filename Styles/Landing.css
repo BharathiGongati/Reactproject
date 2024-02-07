@@ -1,0 +1,35 @@
+.landing{
+    /* border: 1px solid; */
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    height: 250px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0px 0px 20px gray;
+    background-color: rgb(224, 215, 208);
+}
+.landsub{
+    display: flex;
+    justify-content: space-evenly;
+     
+}
+
+.img2{
+    margin-left: 20px;
+    
+    height: 60px;
+    width: 60px;
+}
+.img1{
+    height: 60px;
+    width: 60px;
+   
+}
+.landsub a{
+    text-decoration: none;
+    transition: 4s;
+}
+.landsub a:hover{
+    transform: scale(1.2);
+}

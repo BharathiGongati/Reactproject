@@ -1,0 +1,23 @@
+.addvideo form{
+    background-color: aquamarine;
+    height: 300px;
+    width: 350px;
+    padding: 40px;
+    border: 1px solid;
+}
+.addvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.addvideo input{
+    height: 26px;
+    width: 200px;
+    margin: 0px 20px;
+    border: 1px solid;
+    margin-left:20px;
+}
+.addvideo textarea{
+    margin: 0px 20px;
+    
+}

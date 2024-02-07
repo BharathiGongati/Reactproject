@@ -1,0 +1,14 @@
+.adminnavbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.options a{
+    margin-right: 60px;
+    text-decoration: none;
+    color: black;
+}
+#l2{
+    margin-left: 30px;
+}

@@ -1,0 +1,24 @@
+.admin{
+    position: absolute;
+    top: 35% ;
+    left: 37%;
+    /* border: 1px solid; */
+    padding: 30px 30px ;
+    background-color: palevioletred;
+    box-shadow: 0px 0px 10px black;
+}
+.in1{
+    margin-left: 20px;
+    height: 30px ;
+    width: 200px;
+}
+.in2{
+    margin-left: 31px;
+    height: 30px ;
+    width: 200px;
+}
+.bt1{
+    padding:10px 20px;
+    background-color: rgb(16, 50, 80);
+    color:white;
+}

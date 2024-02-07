@@ -1,0 +1,16 @@
+ .display h3{
+    display: inline;
+}
+#des{
+    display: inline-block;
+    height: 40px;
+    overflow: hidden;
+} 
+.adminview{
+    display: flex;
+    /* flex-wrap: wrap; */
+    
+}
+.display{
+    margin-left: 40px;
+}
